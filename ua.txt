@@ -1,3 +1,8 @@
+[FBAN/FB4A;FBAV/348.0.0.39.118;FBBV/338919016;FBDM/{density=3.0,width=1080,height=2176};FBLC/en_US;FBRV/342753089;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G991W;FBSV/12;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/71.0.3578.141;FBBV/257460578;FBDM/{density=2.0,width=720,height=1280};FBLC/en_Us;FBRV/0;FBCR/airtel;FBMF/doogee;FBBD/doogee;FBPN/com.facebook.katana;FBDV/doogee;FBSV/7.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/155323366;FBDM/{density=2.99,width=720,height=1600};FBLC/en_US;FBRV/156625696;FBCR/ZONG;FBMF/wing;FBBD/wing;FBPN/com.facebook.katana;FBDV/Velocity;FBSV/4.2.2;FBOP/19;FBCA/armeabi-v8a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/155323366;FBDM/{density=2.99,width=720,height=1600};FBLC/en_US;FBRV/156625696;FBCR/airtel;FBMF/Vodafone;FBBD/Vodafone;FBPN/com.facebook.katana;FBDV/Vodafone;FBSV/12;FBOP/19;FBCA/armeabi-v8a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/155323366;FBDM/{density=2.0,width=1080,height=2340};FBLC/en_US;FBRV/156625696;FBCR/airtel;FBMF/Mi 9T Pro;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Mi 9T Pro;FBSV/8.1;FBOP/1;FBCA/arm64-v8a;]
 [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Telstra Mobile;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/ZTE T815;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=800};FBLC/es_LA;FBCR/Claro;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-P714;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=800};FBLC/it_IT;FBCR/I WIND;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-S7390;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
